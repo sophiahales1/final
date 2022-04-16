@@ -1,0 +1,21 @@
+body {
+    background-color: aliceblue;
+}
+.bullet {
+    list-style-type: circle;
+    list-style-position: outside;
+}
+.roman {
+    list-style-type: upper-roman;
+    list-style-position: outside;
+    font-family: 'Times New Roman', serif;
+}
+main a, footer a {
+    text-decoration: underline;
+}
+.college-name {
+    font-style: italic;
+}
+.post-meta {
+    display: none;
+}
